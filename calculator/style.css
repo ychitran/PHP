@@ -1,0 +1,42 @@
+form .first {
+    margin-bottom: 20px;
+}
+
+form .second {
+    margin-bottom: 20px;
+}
+
+form .third {
+    margin-bottom: 20px;
+}
+
+.first label {
+    margin-right: 20px;
+}
+
+.first input {
+    width: 15%;
+    border: 2px solid green;
+}
+
+.second label {
+    margin-right: 53px;
+}
+
+.second select {
+    width: 15.5%;
+    border: 2px solid green;
+}
+
+.third label {
+    margin-right: 2.5px;
+}
+
+.third input {
+    width: 15%;
+    border: 2px solid green;
+}
+
+.fourth {
+    margin-left: 155px;
+}
